@@ -6,3 +6,8 @@
     background-color: #FEEAE9;
 
 }
+
+.back-to-top a {
+    text-decoration: none;
+    color: #000;
+}
